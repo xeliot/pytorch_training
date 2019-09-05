@@ -8,7 +8,7 @@
   - RNNs
   - LSTMs
   - Transformers & Bert
-- Reinforcement Learning
+- Reinforcement Learning; refer to https://github.com/xeliot/rl_gym
   - Deep Q Learning
   - Policy Gradient
   - Advantage Actor Critic
